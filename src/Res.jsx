@@ -5,7 +5,7 @@ const Res = () => {
   return (
     <div id="res" className="jumbotron jumbotron-fluid">
       <div className="container" id="soc">
-        <h3 className="text-center">Competenze migliorate e/o acquisite</h3>
+        <h3 className="text-center">Competenze migliorate o acquisite</h3>
         <img src={team} className="rounded float-left" alt="team" style={{width: "45vh", marginRight: "5vh"}} />
         <img src={autocad} className="rounded float-right" alt="team" style={{width: "30vh", margin: "-5vh 5vh"}} />
         <div>
